@@ -40,14 +40,14 @@ A modern, AI-powered recipe assistant that helps you discover, cook, and manage 
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - Gemini API key (Get it from [Google AI Studio](https://makersuite.google.com/app/apikey))
 
 ### Installation
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/smart-recipe-assistant.git
+git clone https://github.com/Rizwankaka/smart-recipe-assistant.git
 cd smart-recipe-assistant
 ```
 
